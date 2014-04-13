@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="action_menu">Comamnds</string>
+    <string name="app_name">Notes</string>
+    <string name="action_new">New</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_saveas">Save as</string>
+    <string name="action_email">Email</string>
+    <string name="action_review">Review</string>
+    <string name="nofilesindirectory">This directory is empty.</string>
+    <!-- Dialog Texts -->
+	<string name="defaultFilePath">/sdcard/</string>
+
+    <string name="up_button">Up</string>
+    <string name="this_button">Select</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="new_file_msg">Do you want to discard the changes to the current file and open a different one?
+    </string>
+    <string name="discard_changes">Discard current changes?</string>
+    <string name="overwrite_file">Overwrite existing file?</string>
+    <string name="open_file_title">Open File</string>
+    <string name="saveas_file_title">Save File</string>
+    <string name="file_browser">File Browser</string>
+</resources>

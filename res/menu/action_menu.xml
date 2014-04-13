@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/Action"
+        android:title="@string/action_menu"
+        android:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_new"
+                android:icon="@drawable/ic_launcher"
+                android:showAsAction="collapseActionView"
+                android:title="@string/action_new"/>
+            <item
+                android:id="@+id/action_open"
+                android:icon="@drawable/ic_launcher"
+                android:showAsAction="collapseActionView"
+                android:title="@string/action_open"/>
+            <item
+                android:id="@+id/action_save"
+                android:icon="@drawable/ic_launcher"
+                android:showAsAction="collapseActionView"
+                android:title="@string/action_save"/>
+            <item
+                android:id="@+id/action_saveas"
+                android:icon="@drawable/ic_launcher"
+                android:showAsAction="collapseActionView"
+                android:title="@string/action_saveas"/>
+            <item
+                android:id="@+id/action_email"
+                android:icon="@drawable/ic_launcher"
+                android:showAsAction="collapseActionView"
+                android:title="@string/action_email"/>
+            <item
+                    android:id="@+id/action_review"
+                    android:icon="@drawable/ic_launcher"
+                    android:showAsAction="collapseActionView"
+                    android:title="@string/action_review"/>
+        </menu>
+    </item>
+
+</menu>
